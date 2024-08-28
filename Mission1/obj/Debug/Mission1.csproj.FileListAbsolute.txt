@@ -1,0 +1,7 @@
+C:\Users\ANDHIKA\source\repos\Mission1\Mission1\bin\Debug\Mission1.exe.config
+C:\Users\ANDHIKA\source\repos\Mission1\Mission1\bin\Debug\Mission1.exe
+C:\Users\ANDHIKA\source\repos\Mission1\Mission1\bin\Debug\Mission1.pdb
+C:\Users\ANDHIKA\source\repos\Mission1\Mission1\obj\Debug\Mission1.csproj.AssemblyReference.cache
+C:\Users\ANDHIKA\source\repos\Mission1\Mission1\obj\Debug\Mission1.csproj.CoreCompileInputs.cache
+C:\Users\ANDHIKA\source\repos\Mission1\Mission1\obj\Debug\Mission1.exe
+C:\Users\ANDHIKA\source\repos\Mission1\Mission1\obj\Debug\Mission1.pdb
